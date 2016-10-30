@@ -216,6 +216,7 @@ REPLACE="
 /system/app/HealthService
 /system/app/mygalaxy_app-release-SDK_23_150116
 /system/priv-app/SecMyFiles
+/SYSTEM/priv-app/SmartManager_v3
 "
 
 ##########################################################################################
