@@ -3,7 +3,7 @@ name=Debloat Module
 version=v1
 versionCode=1
 author=napster113
-description=This is a debloat module for S6 Edge Plus
+description=Debloat module for S6 Edge Plus
 support=http://forum.xda-developers.com/showpost.php?p=69066126&postcount=1
 donate=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GEQ55T7QC49RC
 cacheModule=false
