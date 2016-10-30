@@ -2,3 +2,5 @@ v1 - First Release
 
 v2 - Added My Files
            S Health
+           Smart Manager
+           My Galaxy
