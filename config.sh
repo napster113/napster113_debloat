@@ -217,6 +217,9 @@ REPLACE="
 /system/app/mygalaxy_app-release-SDK_23_150116
 /system/priv-app/SecMyFiles
 /SYSTEM/priv-app/SmartManager_v3
+/system/priv-app/SmartManagerSDK
+/system/priv-app/SmartManagerProvider
+/system/priv-app/FirewallM
 "
 
 ##########################################################################################
